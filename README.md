@@ -25,7 +25,7 @@ It takes a video as input, detects the license plate frame-by-frame, extracts th
 
 project/ ├── main.py ├── license_plate_best.pt ├── test.mp4 ├── output_with_licensev3.mp4 └── README.md
 
----
+
 
 # How to Run
 
@@ -34,7 +34,7 @@ project/ ├── main.py ├── license_plate_best.pt ├── test.mp4 �
 3. Run this Project :
    python main.py
 
----
+
 
 # Output Example
 - Detects number plate  
@@ -43,6 +43,8 @@ project/ ├── main.py ├── license_plate_best.pt ├── test.mp4 �
 
 ![Output Screenshot 1](Screenshot 2025-11-21 123212.png)
 ![Output Screenshot 2](Screenshot 2025-11-21 123232.png)
+
+
 
 
 
