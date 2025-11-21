@@ -39,7 +39,10 @@ project/ ├── main.py ├── license_plate_best.pt ├── test.mp4 �
 # Output Example
 - Detects number plate  
 - Draws bounding box  
-- Recognizes plate text  
+- Recognizes plate text
+
+![Output Screenshot 1](Screenshot 2025-11-21 123212.png)
+![Output Screenshot 2](Screenshot 2025-11-21 123232.png)
 
 
 
