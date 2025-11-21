@@ -42,6 +42,8 @@ project/ ├── main.py ├── license_plate_best.pt ├── test.mp4 �
 - Recognizes plate text
 
   ![image alt](https://github.com/AvijeetTiwari3/LICENSE_PLATE/blob/main/Screenshot%202025-11-21%20123212.png?raw=true)
+  ![image alt](https://github.com/AvijeetTiwari3/LICENSE_PLATE/blob/main/Screenshot%202025-11-21%20123232.png?raw=true)
+  
   
 
 
