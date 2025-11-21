@@ -41,6 +41,9 @@ project/ ├── main.py ├── license_plate_best.pt ├── test.mp4 �
 - Draws bounding box  
 - Recognizes plate text
 
+  ![image alt](https://github.com/AvijeetTiwari3/LICENSE_PLATE/blob/main/Screenshot%202025-11-21%20123212.png?raw=true)
+  
+
 
 
 
